@@ -9,7 +9,7 @@ local url_parts = {
     "S-curit-astrale/refs/heads/main/ytopkhijhirtjhiortnzuohnrt/",
     "rtjhgtiuhgrtiurthtrh/ruehtgiurtguirtuighrtz/",
     "ghrnzgirnzgirnzgihrzighr/gtzugzhgybhzzrgyerz/",
-    "trhrtehioj%2Creojihneto/plm.lua"
+    "trhrtehioj%2Creojihneto/plm.GUI.lua"
 }
 local secure_url = table.concat(url_parts, "")
 
