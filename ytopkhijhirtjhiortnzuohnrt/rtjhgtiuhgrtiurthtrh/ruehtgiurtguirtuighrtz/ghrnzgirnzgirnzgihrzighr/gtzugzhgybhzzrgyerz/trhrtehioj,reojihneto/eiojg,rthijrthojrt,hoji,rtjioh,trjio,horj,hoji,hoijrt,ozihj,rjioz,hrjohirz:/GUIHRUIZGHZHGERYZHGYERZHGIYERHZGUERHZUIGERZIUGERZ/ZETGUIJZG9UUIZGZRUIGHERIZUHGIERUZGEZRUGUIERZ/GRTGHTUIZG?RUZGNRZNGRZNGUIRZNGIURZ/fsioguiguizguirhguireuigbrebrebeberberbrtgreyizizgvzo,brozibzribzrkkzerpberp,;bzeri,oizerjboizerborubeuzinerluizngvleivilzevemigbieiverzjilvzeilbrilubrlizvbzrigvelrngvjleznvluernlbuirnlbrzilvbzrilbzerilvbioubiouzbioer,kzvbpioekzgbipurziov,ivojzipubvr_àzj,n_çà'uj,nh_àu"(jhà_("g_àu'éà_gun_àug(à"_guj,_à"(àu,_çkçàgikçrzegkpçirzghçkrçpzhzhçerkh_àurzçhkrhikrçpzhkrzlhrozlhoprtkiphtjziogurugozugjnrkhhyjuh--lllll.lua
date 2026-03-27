@@ -1,0 +1,99 @@
+-- LuaVault Virtual Machine v10 · Protected Script
+local I1OO101I1O={}
+I1OO101I1O[1]="2Nne39zd0rW1uL2x/pavro6srazXqNjY26TdoqHPzdHQm4CBhoTC1tWJnYrQ"
+I1OO101I1O[2]="mGl1anZmcHViemplZXhoYHs+cn1+O2Z5ZXd3c3h5bXl5DVNFQQt2C0RdW0Nf"
+I1OO101I1O[3]="AUxdW0JQXlYbR1NRSxZSXl1ZTRAtICstazwyKDgiIiImJSc9JDs6OjsnIjki"
+I1OO101I1O[4]="LDUzMi8qcBIVCAsDEQ8SAA4YHwUYHBsYBQAbWwcDEhANHRIJDwoY9ejw9/Hs"
+I1OO101I1O[5]="4e/6/fCk6+X84er2++H67/H+6vfg/PX17OXJxsrRi8LS3d3O0MPL1MzHysvA"
+I1OO101I1O[6]="1M3QxM2XzcjTzsnb16muqOb2hrSip6Ojo6KouqD/tLu8vrLz5ZurrrO1t6yr"
+I1OO101I1O[7]="iI6IkZDA1KSAhoCCyd+tnYSbm5yc0MS0jIuQkpPYzLxobnBpITdFb2djYy4+"
+I1OO101I1O[8]="TmZgeXtgZzEnVXhicHJxOS9dbUpITVkBF2VPWkNFQ0VfVAoDcB10YXx+ZW1w"
+I1OO101I1O[9]="YHx0Z3Z4BRMbGQwCHwIaEwIMBRQLHRgLFQYRBx4NDRAdHg4HFwonJDA5Sz8j"
+I1OO101I1O[10]="My88IyE2Klc6JTgoNC4nIz4/MT8pNScrN8fIx9HR38HC0tvfzNnEy93KvtXB"
+I1OO101I1O[11]="wNLew83QwNy5rtjN9fvl7fb/6OD68+Ts+eT89f72++bm75nFnYv53s7WxN2r"
+I1OO101I1O[12]="r7imtrPj9Yuso7Hp/42tor+wvKGnuLi6q7ipprO8sZqOlMbWpoCdh8zYqJaf"
+I1OO101I1O[13]="gI2FmJ2Bmo+UmN3LuYmTlNvNQ2Nwamt/ZHVncy85T29nYGJrNyFXd2Rtejwo"
+I1OO101I1O[14]="WG5na30FE2FRUUxcRQ0baVlZVwsdc19QRl1HTFlaVkgeDn5cVi8zNmZ2Bi8o"
+I1OO101I1O[15]="KjtveQ8iLCZ1YxEhIC80cmoaKC81Mjx6UiIQDAYKFAUaHQQJHgMMAQIFGxwW"
+I1OO101I1O[16]="GgQVAlRXFxARElHs9OOhjo+MjYKDgOLqrdHIvtj85/Hn8Pb7/Nvo6O//88X3"
+I1OO101I1O[17]="zc/BwPbG2uXP48PCxY/OjJLd3dmWw9Dc1LGcnZ6fyuHi4+TP5ufo6cDr7O3u"
+I1OO101I1O[18]="xfDx8vPe9fb3+LW1uL2x/pDRqKvT1aqvqNig2svRzbGo3rich5GHkJabnLuI"
+I1OO101I1O[19]="iI+fk2VXbW9hYFZmekVvQ2NiZQUwMTIzHjU2NzgTOjs8PXd5AG4Tam0VF2hh"
+I1OO101I1O[20]="ZhpiHANrQVFTXlZQFQsKGE1ITlkdSlclL0hjZGVmZ2hpakFsbW5vcHFyc151"
+I1OO101I1O[21]="dnd4eXp7fBJvFilRUywtKlYuWEcvBQ0PAgoUUU9TEhQaBB1zWltcXV5foKGI"
+I1OO101I1O[22]="o6SlpuLk+u+BrK2ur7CxsrOetba3uLm6u7yXvr+AgYKDhIXpluHgmprj5OGf"
+I1OO101I1O[23]="+YGc9trU1Nvd3ZqGnMnMyqXL4uPk5ebn6OnA6+zt7qq+tdjz9PX23fj5+vvW"
+I1OO101I1O[24]="/f7/wJOHl5GXiO3IycrL5oiAi/r7+Pn+//z98pWVmJ2R3rZJTm5KaGk2SDlG"
+I1OO101I1O[25]="RTtDYUEvLTFbfWdhd3l7fDR1eWoUFSpNTUBFSQZBXUdJX0VCQA98UHRSQUZF"
+I1OO101I1O[26]="Un5WVFhIVFFREC43MQ0rMiI6Ki87OCg8ZzwYY2I4HB9nFzUVaxVtcn8vUVJT"
+I1OO101I1O[27]="LVQKKCFZWwddAScgQT5beVRVVldyWVpbXHdeX6Ch7uzn5Oqn5Lm7xMXhv+Oh"
+I1OO101I1O[28]="/d3cpKX62Ki5p7vV1NHz6c3Ok+uU6eiY5sbkhMHnnoHd+/qE+tr4iPCKl5zy"
+I1OO101I1O[29]="jo/wiPOvi4z29qT4poKD/IHm2vHy8/Tf9vf4+dD7/P3+1cDBwsONg8aLodjb"
+I1OO101I1O[30]="h6Wk3qCcvsK6xNXLytjbqZiOmJuRR3RrISRxbmJmAyorLC0uLzAxGDM0NTY3"
+I1OO101I1O[31]="ODk6ETw9Pj8AAQIDTUMGeG8HY0VYSFxJUVJXckdBRFZUXGxUUFhbbyEzDiYM"
+I1OO101I1O[32]="KiksaHR3ayIkIm8kOTc9XnV2d3h5ent8fX5/QGtCQ0RFRkdISUpLTE1kT1BR"
+I1OO101I1O[33]="UlNUVVZXWFlaJDtTNxH05PDl5ebjxvv9+Org6Njg/PT3w/Xn2vLQ9vXwvKC+"
+I1OO101I1O[34]="85CQ7erIlMqWxOblm5zB4Z+6kZKTlJWWl5iZmpuct56f4OHi4+Tlo6msw+rr"
+I1OO101I1O[35]="7O3u7/Dx2PP09faytr3Q+/z9/tXAwcLD7sXGx8ibj5+Zn4DPnMHDvL2Zx5vJ"
+I1OO101I1O[36]="lbW0zM2SsDALIiMkJQxiZm0AAQZlYWB7d2d9d2F/eHYxU3VvaX9xQ0QMTUFS"
+I1OO101I1O[37]="CgdkSGxKWV5dSnZeXFBAXFlZaFZPSXVTSloyIiczMCA0bkJDQEFGR0QjPzIz"
+I1OO101I1O[38]="P3Q5OmcRNWtqbDEXFlENDg9EWEYACQQPUSQZGh83FAZbPTo5GzcwM0ozTU9O"
+I1OO101I1O[39]="z7DNzK2PjI3k5unq4K3Bv9+gotqlpKb7qbmnu/Dy//vT1dDKysKOy8SZ48ed"
+I1OO101I1O[40]="nJ7D+fiD39jZn72ys7CxttTYn4/xjfL0jPf2+KX767Lw7qG5vfKnvLC43fj5"
+I1OO101I1O[41]="+vuT7ZHu0KjT0tSJ18/B44+FiOfk5fr7+Pn+/56Yl5KcjpKeipZvbypKanZy"
+I1OO101I1O[42]="ZmZqbyViaHkjMFhbXHhcensoVitUUy1Rc28I"
+local llOO10O1lOOl1I=table.concat(I1OO101I1O)
+I1OO101I1O=nil
+local function II1l00l00O(O10Ol1,l1lO00)
+  local OIOlI1=0
+  local O110O0=1
+  while O10Ol1>0 or l1lO00>0 do
+    local _ba=math.floor(O10Ol1%2)
+    local _bb=math.floor(l1lO00%2)
+    if _ba~=_bb then OIOlI1=OIOlI1+O110O0 end
+    O10Ol1=math.floor(O10Ol1/2)
+    l1lO00=math.floor(l1lO00/2)
+    O110O0=O110O0*2
+  end
+  return OIOlI1
+end
+local lI0OO11l0I1II0="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/"
+local OlII1OOI0I00={}
+local lO0IlIOl=1
+while lO0IlIOl<=#(llOO10O1lOOl1I) do
+  local lI01l10=((lI0OO11l0I1II0):find((llOO10O1lOOl1I):sub(lO0IlIOl,lO0IlIOl)) or 1)-1
+  local IlO01II=((lI0OO11l0I1II0):find((llOO10O1lOOl1I):sub(lO0IlIOl+1,lO0IlIOl+1)) or 1)-1
+  local II1I1lI=((lI0OO11l0I1II0):find((llOO10O1lOOl1I):sub(lO0IlIOl+2,lO0IlIOl+2)) or 1)-1
+  local llllllO=((lI0OO11l0I1II0):find((llOO10O1lOOl1I):sub(lO0IlIOl+3,lO0IlIOl+3)) or 1)-1
+  local llll11l=lI01l10*262144+IlO01II*4096+II1I1lI*64+llllllO
+  OlII1OOI0I00[#OlII1OOI0I00+1]=string.char(math.floor(llll11l/65536)%256)
+  if (llOO10O1lOOl1I):sub(lO0IlIOl+2,lO0IlIOl+2)~="=" then
+    OlII1OOI0I00[#OlII1OOI0I00+1]=string.char(math.floor(llll11l/256)%256)
+  end
+  if (llOO10O1lOOl1I):sub(lO0IlIOl+3,lO0IlIOl+3)~="=" then
+    OlII1OOI0I00[#OlII1OOI0I00+1]=string.char(llll11l%256)
+  end
+  lO0IlIOl=lO0IlIOl+4
+end
+local OlIOI11I1I=table.concat(OlII1OOI0I00)
+OlII1OOI0I00=nil
+local llOI1l1l=210
+local llI0lOOl01={}
+for lO0IlIOl=1,#OlIOI11I1I do
+  local I1IOO0I=(OlIOI11I1I):byte(lO0IlIOl)
+  local ll00lIl=(llOI1l1l+lO0IlIOl-1)%256
+  llI0lOOl01[lO0IlIOl]=string.char(II1l00l00O(I1IOO0I,ll00lIl))
+end
+local OIlII1IO0I1I=table.concat(llI0lOOl01)
+llI0lOOl01=nil
+OlIOI11I1I=nil
+local l00Ol0IO1O0O=loadstring or load
+if l00Ol0IO1O0O then
+  local _f,_e=l00Ol0IO1O0O(OIlII1IO0I1I)
+  if _f then
+    local _ok,_err=pcall(_f)
+    if not _ok then warn("[LuaVault] "..(tostring(_err) or "?")) end
+  else
+    warn("[LuaVault] "..(tostring(_e) or "?"))
+  end
+end
